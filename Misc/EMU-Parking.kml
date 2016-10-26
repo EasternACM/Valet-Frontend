@@ -1,0 +1,791 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>EMU Parking</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>Mayhew Lot 1</name>
+				<styleUrl>#poly-FFD600-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6267991,42.253969,0.0 -83.6276065,42.2539482,0.0 -83.6275837,42.2535997,0.0 -83.627695,42.2533704,0.0 -83.6269641,42.253028,0.0 -83.6268219,42.2532057,0.0 -83.6267334,42.2534221,0.0 -83.6268032,42.253431,0.0 -83.6267723,42.2536514,0.0 -83.6267991,42.253969,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Green Lot 1</name>
+				<styleUrl>#poly-FFD600-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6272565,42.2555265,0.0 -83.6273584,42.2555483,0.0 -83.6273798,42.2543035,0.0 -83.6264786,42.2542926,0.0 -83.6264491,42.2535928,0.0 -83.6264344,42.2535561,0.0 -83.6263271,42.2534856,0.0 -83.6261353,42.2533933,0.0 -83.6259663,42.2533387,0.0 -83.6257812,42.2533069,0.0 -83.6256324,42.253297,0.0 -83.6254929,42.253301,0.0 -83.6253078,42.2533069,0.0 -83.6252113,42.2531769,0.0 -83.6250959,42.2530627,0.0 -83.6249739,42.2529873,0.0 -83.6247633,42.25289,0.0 -83.6245568,42.2528255,0.0 -83.6243664,42.2528016,0.0 -83.6242175,42.2527937,0.0 -83.6241102,42.2528016,0.0 -83.6238715,42.2528404,0.0 -83.623677,42.252894,0.0 -83.6235148,42.2529823,0.0 -83.6234303,42.25303,0.0 -83.6232626,42.2531024,0.0 -83.6231191,42.2530994,0.0 -83.6231312,42.2536176,0.0 -83.623327,42.2536484,0.0 -83.6234745,42.2537099,0.0 -83.6237749,42.2539501,0.0 -83.6238997,42.2540405,0.0 -83.6240324,42.2540792,0.0 -83.6240539,42.254512,0.0 -83.6240351,42.2545676,0.0 -83.6251885,42.2548534,0.0 -83.6254513,42.2549368,0.0 -83.6272565,42.2555265,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Ann Street Lot</name>
+				<styleUrl>#poly-FFD600-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6210807,42.2534151,0.0 -83.6211263,42.2533506,0.0 -83.6212014,42.2533416,0.0 -83.6211799,42.2527083,0.0 -83.6211491,42.25207,0.0 -83.621078,42.2520671,0.0 -83.6210726,42.2520174,0.0 -83.6208728,42.2520194,0.0 -83.6208661,42.2520641,0.0 -83.6203605,42.252074,0.0 -83.620327,42.2520601,0.0 -83.6203203,42.2520145,0.0 -83.6203752,42.2520055,0.0 -83.6203203,42.2518159,0.0 -83.6203055,42.2517851,0.0 -83.6202478,42.2517871,0.0 -83.6202317,42.2517464,0.0 -83.6198683,42.251801,0.0 -83.619879,42.2518447,0.0 -83.6198173,42.2518566,0.0 -83.6199139,42.2521991,0.0 -83.6200292,42.2521941,0.0 -83.6200467,42.2528354,0.0 -83.6201137,42.2528423,0.0 -83.6201164,42.2529793,0.0 -83.6201298,42.2530468,0.0 -83.6201486,42.2530766,0.0 -83.6201888,42.2531014,0.0 -83.6202036,42.2531183,0.0 -83.6201821,42.253156,0.0 -83.6210807,42.2534151,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Ford Lot A</name>
+				<styleUrl>#poly-0288D1-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6202934,42.2509473,0.0 -83.6202908,42.2506217,0.0 -83.6195531,42.2506207,0.0 -83.6195303,42.2506833,0.0 -83.619466,42.2506892,0.0 -83.6195156,42.2508987,0.0 -83.6195746,42.2508868,0.0 -83.6196028,42.2509017,0.0 -83.6196081,42.2509483,0.0 -83.6202934,42.2509473,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Ford Reserved</name>
+				<styleUrl>#poly-000000-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6209211,42.2509493,0.0 -83.6209318,42.2509007,0.0 -83.6209922,42.2508967,0.0 -83.6209881,42.2506177,0.0 -83.6202908,42.2506217,0.0 -83.6202934,42.2509473,0.0 -83.6209211,42.2509493,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Ford Lot B</name>
+				<styleUrl>#poly-FFD600-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6209291,42.2502435,0.0 -83.6195102,42.2502385,0.0 -83.6195062,42.2502961,0.0 -83.6194378,42.250305,0.0 -83.6194432,42.2505095,0.0 -83.6195022,42.2505145,0.0 -83.6195089,42.2505721,0.0 -83.6209935,42.2505701,0.0 -83.6209962,42.2502921,0.0 -83.6209331,42.2502882,0.0 -83.6209291,42.2502435,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Oakwood Lot South</name>
+				<styleUrl>#poly-FFD600-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6286432,42.2481399,0.0 -83.6286673,42.2480923,0.0 -83.6287639,42.2480893,0.0 -83.6287665,42.248131,0.0 -83.628855,42.248128,0.0 -83.6288524,42.2480684,0.0 -83.6288966,42.2480674,0.0 -83.6288752,42.2474599,0.0 -83.6287799,42.2474609,0.0 -83.6285667,42.2472345,0.0 -83.6284661,42.247163,0.0 -83.6283763,42.2471303,0.0 -83.628391,42.2470806,0.0 -83.6274683,42.2469288,0.0 -83.6273423,42.2469099,0.0 -83.6273088,42.247026,0.0 -83.6272913,42.2471442,0.0 -83.6273034,42.2474132,0.0 -83.6273329,42.2475502,0.0 -83.6273852,42.2476803,0.0 -83.6274737,42.2478381,0.0 -83.6275649,42.2479781,0.0 -83.6277017,42.2479801,0.0 -83.6286432,42.2481399,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>McKenny Lot</name>
+				<styleUrl>#poly-097138-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6275166,42.2467789,0.0 -83.6286163,42.2469645,0.0 -83.6286284,42.2469288,0.0 -83.628678,42.2469039,0.0 -83.6287116,42.2469159,0.0 -83.6286995,42.2469516,0.0 -83.6286364,42.2470161,0.0 -83.6287022,42.2470588,0.0 -83.628792,42.2469834,0.0 -83.628847,42.2468335,0.0 -83.628851,42.2467024,0.0 -83.6288416,42.2465962,0.0 -83.6287799,42.2465475,0.0 -83.628792,42.2464999,0.0 -83.6276574,42.2463063,0.0 -83.6275166,42.2467789,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>McKenny Staff Lot</name>
+				<styleUrl>#poly-0288D1-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6264411,42.2460402,0.0 -83.626307,42.2461236,0.0 -83.6262399,42.2461673,0.0 -83.6262399,42.2462626,0.0 -83.6262721,42.2463539,0.0 -83.6264223,42.2463976,0.0 -83.6266235,42.2466637,0.0 -83.62683,42.246759,0.0 -83.6273289,42.2468523,0.0 -83.6273879,42.246755,0.0 -83.6274764,42.2467729,0.0 -83.6275917,42.2463857,0.0 -83.6275166,42.2462805,0.0 -83.6269131,42.2461832,0.0 -83.6265805,42.2460899,0.0 -83.6264411,42.2460402,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>(47)</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6264129,42.2552267,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>(15)</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6273262,42.2552833,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>(9)</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6273342,42.2549547,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>(9)</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6273396,42.2546678,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>(5)</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6273503,42.2544703,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>(71)</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6271304,42.2552624,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>(67)</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6269145,42.2552098,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>(61)</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6266892,42.2551354,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Entrance 1</name>
+				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6242899,42.2527709,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Entrance 2</name>
+				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6233485,42.2530369,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Entrance 3</name>
+				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6256284,42.2550301,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Entrance 4</name>
+				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6273986,42.2543512,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Entrance 1</name>
+				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6212108,42.2528006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Entrance</name>
+				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6208835,42.2502385,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Entrance</name>
+				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6276132,42.247996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Entrance</name>
+				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6273932,42.2469039,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bowen Lot</name>
+				<styleUrl>#poly-097138-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6269534,42.250448,0.0 -83.6268863,42.2503189,0.0 -83.6268112,42.250176,0.0 -83.6267522,42.250035,0.0 -83.6267522,42.2498246,0.0 -83.6267844,42.2497213,0.0 -83.62672,42.2496975,0.0 -83.6267334,42.249632,0.0 -83.6264491,42.2495843,0.0 -83.6264277,42.2496757,0.0 -83.6263472,42.2496737,0.0 -83.6263096,42.2497968,0.0 -83.6262989,42.2499556,0.0 -83.6263096,42.2500569,0.0 -83.6263445,42.25017,0.0 -83.6264277,42.2503765,0.0 -83.6264491,42.2505512,0.0 -83.6269534,42.250448,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Bowen Lot</name>
+				<styleUrl>#poly-0288D1-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6272444,42.2501621,0.0 -83.6272109,42.2500797,0.0 -83.6271773,42.2499933,0.0 -83.6271653,42.2499288,0.0 -83.6271787,42.2498464,0.0 -83.6272135,42.2497164,0.0 -83.6272095,42.2494682,0.0 -83.6271398,42.2494185,0.0 -83.6271653,42.249353,0.0 -83.6270808,42.249358,0.0 -83.6270767,42.2494215,0.0 -83.6269976,42.2494682,0.0 -83.627007,42.249633,0.0 -83.6269896,42.2497571,0.0 -83.6269614,42.2498702,0.0 -83.6269614,42.2499884,0.0 -83.627007,42.2501184,0.0 -83.6270405,42.2501958,0.0 -83.6270821,42.2502137,0.0 -83.6272444,42.2501621,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Oakwood Parking Structure</name>
+				<styleUrl>#poly-FFD600-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6280504,42.2501462,0.0 -83.6280316,42.2494493,0.0 -83.6272095,42.2494682,0.0 -83.6272417,42.2501561,0.0 -83.6280504,42.2501462,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Oakwood Lot North</name>
+				<styleUrl>#poly-FFD600-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6290656,42.251123,0.0 -83.6290482,42.2504013,0.0 -83.6286043,42.2504113,0.0 -83.6286137,42.2509275,0.0 -83.6286552,42.2509771,0.0 -83.628792,42.2511478,0.0 -83.6288443,42.2511826,0.0 -83.628906,42.2512034,0.0 -83.6290066,42.2512054,0.0 -83.6290039,42.251129,0.0 -83.6290656,42.251123,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Oakwood Center Lot</name>
+				<styleUrl>#poly-FFD600-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6290254,42.2500837,0.0 -83.6290576,42.2500598,0.0 -83.6290509,42.2498702,0.0 -83.6290187,42.2497233,0.0 -83.6289945,42.2496399,0.0 -83.6289302,42.2495268,0.0 -83.6288658,42.2494493,0.0 -83.628788,42.2493679,0.0 -83.6284178,42.2493798,0.0 -83.6283481,42.2494037,0.0 -83.6282891,42.2494672,0.0 -83.6284715,42.2495962,0.0 -83.62856,42.2497233,0.0 -83.6286029,42.2498802,0.0 -83.6286083,42.2500847,0.0 -83.6290254,42.2500837,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Entrance</name>
+				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6275005,42.2539819,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Entrance</name>
+				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6276373,42.2533019,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Entrance</name>
+				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6289462,42.2503944,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Entrance</name>
+				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6287156,42.2503944,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Entrance</name>
+				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6289395,42.2501065,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Entrance</name>
+				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6287169,42.2501095,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Entrance</name>
+				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.62799,42.2501621,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Entrance</name>
+				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6273704,42.25017,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Student Center Lot</name>
+				<styleUrl>#poly-FFD600-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6290173,42.2531878,0.0 -83.6289932,42.2528582,0.0 -83.6280692,42.252885,0.0 -83.6279646,42.252893,0.0 -83.6278251,42.2529198,0.0 -83.6277567,42.2529188,0.0 -83.6277513,42.2528096,0.0 -83.6276038,42.2528275,0.0 -83.6276092,42.2529734,0.0 -83.6276467,42.2530726,0.0 -83.6276937,42.253153,0.0 -83.6277419,42.2531898,0.0 -83.6276816,42.2532186,0.0 -83.6277929,42.253301,0.0 -83.6279042,42.2532513,0.0 -83.6280155,42.2532196,0.0 -83.6281469,42.2532037,0.0 -83.6290173,42.2531878,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Student Center Pay Lot</name>
+				<styleUrl>#poly-000000-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6276682,42.2528096,0.0 -83.6277594,42.2528066,0.0 -83.627762,42.2527232,0.0 -83.6280115,42.2527183,0.0 -83.6280155,42.2527669,0.0 -83.6285453,42.2527629,0.0 -83.6285426,42.2527083,0.0 -83.6290173,42.2527044,0.0 -83.6289945,42.2526279,0.0 -83.6289771,42.2525952,0.0 -83.628965,42.2522596,0.0 -83.6288269,42.2522577,0.0 -83.6287075,42.252217,0.0 -83.628493,42.2521167,0.0 -83.6283454,42.2520889,0.0 -83.6281617,42.2520929,0.0 -83.6279874,42.2521286,0.0 -83.6278345,42.252205,0.0 -83.6277486,42.2522527,0.0 -83.6276561,42.2522636,0.0 -83.627589,42.2522626,0.0 -83.6276051,42.252758,0.0 -83.6276641,42.252756,0.0 -83.6276682,42.2528096,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Pease Lot</name>
+				<styleUrl>#poly-FFD600-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6209412,42.247308,0.0 -83.6209989,42.2473278,0.0 -83.6210471,42.247445,0.0 -83.6211155,42.2474271,0.0 -83.6211437,42.2474668,0.0 -83.6214146,42.2474023,0.0 -83.6213744,42.2472961,0.0 -83.6214159,42.2472524,0.0 -83.6214066,42.2466577,0.0 -83.6211558,42.2466607,0.0 -83.6211075,42.2466448,0.0 -83.6210766,42.2465952,0.0 -83.6210632,42.2465436,0.0 -83.6210565,42.2462934,0.0 -83.6209103,42.2462944,0.0 -83.6209412,42.247308,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Pease Pay Lot</name>
+				<styleUrl>#poly-0F9D58-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6214039,42.2473606,0.0 -83.6214763,42.2473398,0.0 -83.6214951,42.2473805,0.0 -83.6218639,42.2472941,0.0 -83.6218384,42.2467769,0.0 -83.6217807,42.2467739,0.0 -83.6217713,42.2466627,0.0 -83.6214066,42.2466577,0.0 -83.6214159,42.2472524,0.0 -83.6213744,42.2472961,0.0 -83.6214039,42.2473606,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Pease Handicap Lot</name>
+				<styleUrl>#poly-0288D1-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6207977,42.247306,0.0 -83.6209412,42.247308,0.0 -83.6209103,42.2462944,0.0 -83.6208017,42.2462984,0.0 -83.6208031,42.2463619,0.0 -83.6207011,42.2463659,0.0 -83.6207226,42.2472425,0.0 -83.6207883,42.2472445,0.0 -83.6207977,42.247306,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Bowman-Roosevelt Lot</name>
+				<styleUrl>#poly-0288D1-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6234424,42.2483196,0.0 -83.623437,42.2478312,0.0 -83.6229622,42.2478391,0.0 -83.6229622,42.2478828,0.0 -83.6229837,42.2479146,0.0 -83.6229944,42.2483811,0.0 -83.6233646,42.2483712,0.0 -83.6233672,42.2483196,0.0 -83.6234424,42.2483196,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Bowman-Roosevelt Lot 2</name>
+				<styleUrl>#poly-0288D1-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6221898,42.2489053,0.0 -83.6221844,42.2489291,0.0 -83.6224043,42.2489271,0.0 -83.6224821,42.2489252,0.0 -83.6225706,42.2489033,0.0 -83.6226189,42.2488696,0.0 -83.6226377,42.2488001,0.0 -83.6226296,42.2484288,0.0 -83.6221898,42.2484308,0.0 -83.6221898,42.2489053,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Alexander Pay Lot</name>
+				<styleUrl>#poly-0F9D58-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6198696,42.2499516,0.0 -83.6198831,42.2499298,0.0 -83.6199474,42.2499258,0.0 -83.6199555,42.2496598,0.0 -83.6196765,42.2496578,0.0 -83.6196792,42.2496975,0.0 -83.6196068,42.2496915,0.0 -83.6195371,42.2496459,0.0 -83.619462,42.2496022,0.0 -83.61936,42.2496181,0.0 -83.6192903,42.2493878,0.0 -83.6192232,42.2493639,0.0 -83.6191428,42.2493759,0.0 -83.6190811,42.2494136,0.0 -83.6191776,42.2497432,0.0 -83.6192554,42.2498226,0.0 -83.6193788,42.249908,0.0 -83.6195317,42.2499635,0.0 -83.6197168,42.2499814,0.0 -83.6197141,42.2499536,0.0 -83.6197838,42.2499556,0.0 -83.6198696,42.2499516,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Alexander Staff Lot</name>
+				<styleUrl>#poly-0288D1-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6188477,42.2487326,0.0 -83.6188719,42.2487981,0.0 -83.6189094,42.2488418,0.0 -83.6190462,42.2493123,0.0 -83.6191186,42.2492945,0.0 -83.6191347,42.2493441,0.0 -83.6193869,42.2493044,0.0 -83.6193761,42.2492607,0.0 -83.6197919,42.2491912,0.0 -83.6197677,42.2491078,0.0 -83.6195853,42.2491416,0.0 -83.6195102,42.2491555,0.0 -83.6193842,42.2487544,0.0 -83.6193386,42.2486611,0.0 -83.6192608,42.248671,0.0 -83.6192501,42.2485956,0.0 -83.6189282,42.2486412,0.0 -83.6189497,42.2487187,0.0 -83.6188477,42.2487326,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Green Lot 2</name>
+				<styleUrl>#poly-FFD600-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6300889,42.2552485,0.0 -83.6309955,42.2552545,0.0 -83.6311698,42.2551651,0.0 -83.6311564,42.2544107,0.0 -83.6310571,42.2542996,0.0 -83.6302149,42.2542976,0.0 -83.6302122,42.2542241,0.0 -83.6310706,42.2542241,0.0 -83.6310679,42.2541705,0.0 -83.6311591,42.2541685,0.0 -83.6311349,42.2538112,0.0 -83.6310947,42.2537953,0.0 -83.6310759,42.2537496,0.0 -83.6301398,42.2537496,0.0 -83.6301345,42.2538012,0.0 -83.6300647,42.2538151,0.0 -83.6300701,42.2541685,0.0 -83.6301318,42.2541884,0.0 -83.6301318,42.2542896,0.0 -83.6300701,42.2542956,0.0 -83.6300915,42.2543611,0.0 -83.6300781,42.2544286,0.0 -83.6300889,42.2552485,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Smith Reserved</name>
+				<styleUrl>#poly-000000-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6252448,42.2481449,0.0 -83.6252475,42.2478232,0.0 -83.6245984,42.2478332,0.0 -83.6245957,42.2481012,0.0 -83.6246681,42.2481052,0.0 -83.6246654,42.2481409,0.0 -83.6252448,42.2481449,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Snow Lot</name>
+				<styleUrl>#poly-0288D1-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-83.6236757,42.2506167,0.0 -83.6242363,42.2506088,0.0 -83.624298,42.2504579,0.0 -83.6242899,42.2503368,0.0 -83.623834,42.2503487,0.0 -83.6238045,42.2504003,0.0 -83.6235604,42.2504023,0.0 -83.6235738,42.2504559,0.0 -83.6236489,42.2504758,0.0 -83.6236757,42.2506167,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Entrance</name>
+				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6209291,42.2463063,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Entrance</name>
+				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6210847,42.2474698,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Entrance</name>
+				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6300111,42.2543234,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Entrance</name>
+				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
+				<Point>
+					<coordinates>-83.6311537,42.2543214,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Untitled layer</name>
+		</Folder>
+		<Style id='icon-1644-A52714-nodesc-normal'>
+			<IconStyle>
+				<color>ff1427A5</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1644-A52714-nodesc-highlight'>
+			<IconStyle>
+				<color>ff1427A5</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1644-A52714-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1644-A52714-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1644-A52714-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1899-0288D1-nodesc-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1899-0288D1-nodesc-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1899-0288D1-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-000000-1-77-nodesc-normal'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4D000000</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-000000-1-77-nodesc-highlight'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4D000000</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-000000-1-77-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-000000-1-77-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-000000-1-77-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-0288D1-1-77-nodesc-normal'>
+			<LineStyle>
+				<color>ffD18802</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4DD18802</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-0288D1-1-77-nodesc-highlight'>
+			<LineStyle>
+				<color>ffD18802</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4DD18802</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-0288D1-1-77-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-0288D1-1-77-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-0288D1-1-77-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-097138-1-77-nodesc-normal'>
+			<LineStyle>
+				<color>ff387109</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4D387109</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-097138-1-77-nodesc-highlight'>
+			<LineStyle>
+				<color>ff387109</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4D387109</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-097138-1-77-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-097138-1-77-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-097138-1-77-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-0F9D58-1-77-nodesc-normal'>
+			<LineStyle>
+				<color>ff589D0F</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4D589D0F</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-0F9D58-1-77-nodesc-highlight'>
+			<LineStyle>
+				<color>ff589D0F</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4D589D0F</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-0F9D58-1-77-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-0F9D58-1-77-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-0F9D58-1-77-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-FFD600-1-77-nodesc-normal'>
+			<LineStyle>
+				<color>ff00D6FF</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4D00D6FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-FFD600-1-77-nodesc-highlight'>
+			<LineStyle>
+				<color>ff00D6FF</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4D00D6FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-FFD600-1-77-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FFD600-1-77-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FFD600-1-77-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
