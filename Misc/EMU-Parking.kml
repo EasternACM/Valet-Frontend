@@ -170,62 +170,6 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Entrance 1</name>
-				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
-				<Point>
-					<coordinates>-83.6242899,42.2527709,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Entrance 2</name>
-				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
-				<Point>
-					<coordinates>-83.6233485,42.2530369,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Entrance 3</name>
-				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
-				<Point>
-					<coordinates>-83.6256284,42.2550301,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Entrance 4</name>
-				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
-				<Point>
-					<coordinates>-83.6273986,42.2543512,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Entrance 1</name>
-				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
-				<Point>
-					<coordinates>-83.6212108,42.2528006,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Entrance</name>
-				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
-				<Point>
-					<coordinates>-83.6208835,42.2502385,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Entrance</name>
-				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
-				<Point>
-					<coordinates>-83.6276132,42.247996,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Entrance</name>
-				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
-				<Point>
-					<coordinates>-83.6273932,42.2469039,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
 				<name>Bowen Lot</name>
 				<styleUrl>#poly-097138-1-77-nodesc</styleUrl>
 				<Polygon>
@@ -284,62 +228,6 @@
 						</LinearRing>
 					</outerBoundaryIs>
 				</Polygon>
-			</Placemark>
-			<Placemark>
-				<name>Entrance</name>
-				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
-				<Point>
-					<coordinates>-83.6275005,42.2539819,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Entrance</name>
-				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
-				<Point>
-					<coordinates>-83.6276373,42.2533019,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Entrance</name>
-				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
-				<Point>
-					<coordinates>-83.6289462,42.2503944,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Entrance</name>
-				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
-				<Point>
-					<coordinates>-83.6287156,42.2503944,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Entrance</name>
-				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
-				<Point>
-					<coordinates>-83.6289395,42.2501065,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Entrance</name>
-				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
-				<Point>
-					<coordinates>-83.6287169,42.2501095,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Entrance</name>
-				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
-				<Point>
-					<coordinates>-83.62799,42.2501621,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Entrance</name>
-				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
-				<Point>
-					<coordinates>-83.6273704,42.25017,0.0</coordinates>
-				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Student Center Lot</name>
@@ -484,34 +372,6 @@
 						</LinearRing>
 					</outerBoundaryIs>
 				</Polygon>
-			</Placemark>
-			<Placemark>
-				<name>Entrance</name>
-				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
-				<Point>
-					<coordinates>-83.6209291,42.2463063,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Entrance</name>
-				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
-				<Point>
-					<coordinates>-83.6210847,42.2474698,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Entrance</name>
-				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
-				<Point>
-					<coordinates>-83.6300111,42.2543234,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Entrance</name>
-				<styleUrl>#icon-1644-A52714-nodesc</styleUrl>
-				<Point>
-					<coordinates>-83.6311537,42.2543214,0.0</coordinates>
-				</Point>
 			</Placemark>
 		</Folder>
 		<Folder>
